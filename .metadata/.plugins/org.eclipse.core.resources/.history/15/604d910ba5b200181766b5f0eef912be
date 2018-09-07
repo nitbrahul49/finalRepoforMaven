@@ -1,0 +1,14 @@
+package simpleMavenA;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class AddTwoNumbersTest {
+
+	@Test
+	public void testAddTwoNumbers() {
+		fail("Not yet implemented");
+	}
+
+}
